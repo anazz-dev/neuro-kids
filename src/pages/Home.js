@@ -399,8 +399,8 @@ const Home = () => {
       id: 7,
       title: 'Smell: Neuroscience for Kids',
       image: SmellCover,
-      link: null,
-      ageRange: 'Coming Soon',
+      link: 'https://www.amazon.com/dp/B0FF9F1CDH',
+      ageRange: 'For 7-14 Years',
       description: 'Explore the amazing sense of smell and how our nose and brain identify countless odors.'
     },
     {
