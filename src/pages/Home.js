@@ -407,8 +407,8 @@ const Home = () => {
       id: 8,
       title: 'Taste: Neuroscience for Kids',
       image: TasteCover,
-      link: null,
-      ageRange: 'Coming Soon',
+      link: 'https://www.amazon.com/dp/B0FTB1TR6X',
+      ageRange: 'For 7-14 Years',
       description: 'Unravel the mysteries of taste and how our tongue and brain differentiate between sweet, sour, salty, bitter, and umami.'
     }
   ];
