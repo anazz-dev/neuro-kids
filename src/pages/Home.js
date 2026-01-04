@@ -392,8 +392,8 @@ const Home = () => {
       id: 6,
       title: 'Touch: Neuroscience for Kids',
       image: TouchCover,
-      link: null,
-      ageRange: 'Coming Soon',
+      link: 'https://www.amazon.com/dp/B0G3DWTCS6',
+      ageRange: 'For 7-14 Years',
       description: 'Discover the fascinating world of touch and how our skin and brain work together to perceive sensations.'
     },
     {
