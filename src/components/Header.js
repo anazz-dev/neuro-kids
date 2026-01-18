@@ -101,8 +101,6 @@ const Header = () => {
         <NavLinks>
           <NavLink onClick={() => scrollToSection('books')}>Books</NavLink>
           <NavLink onClick={() => scrollToSection('mission')}>Our Mission</NavLink>
-          <NavLink onClick={() => scrollToSection('team')}>Team</NavLink>
-          <NavLink onClick={() => scrollToSection('testimonials')}>Testimonials</NavLink>
         </NavLinks>
         
         <MobileMenuButton aria-label="Menu">☰</MobileMenuButton>
