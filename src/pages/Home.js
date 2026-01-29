@@ -9,6 +9,7 @@ import TouchCover from '../assets/images/Touch-Cover.png';
 import SmellCover from '../assets/images/Smell-Cover.png';
 import TasteCover from '../assets/images/Taste-Cover.png';
 import ColorCover1 from '../assets/images/color-book-1.png';
+import Uniploar from '../assets/images/Unipolar.png';
 import NinaPhoto from '../assets/images/1704476110801.jpeg';
 import AhmadPhoto from '../assets/images/bbef6a80-3474-406a-958d-2728db5e2f88.jpeg';
 
@@ -419,7 +420,7 @@ const Home = () => {
       link: 'https://www.amazon.com/dp/B0GDWN44YY',
       ageRange: 'For 7-14 Years',
       description: 'Learn about the brain cells and discover their names through fun, relaxing coloring and hands-on activities.'
-    }
+    },
       {
       id: 10,
       title: 'Unipolar Neurons',
