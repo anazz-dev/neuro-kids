@@ -423,7 +423,7 @@ const Home = () => {
       {
       id: 10,
       title: 'Unipolar Neurons',
-      image: Unipolar-Activity-Book-Cover-A4,
+      image: Unipolar,
       link: '',
       ageRange: 'For 7-14 Years',
       description: 'Coming Soon'
