@@ -425,9 +425,9 @@ const Home = () => {
       id: 10,
       title: 'Unipolar Neurons',
       image: Unipolar,
-      link: '',
+      link: 'https://www.amazon.com/dp/B0GKPQYFL7',
       ageRange: 'For 7-14 Years',
-      description: 'Coming Soon'
+      description: 'Learn about the unipolar neuron, a special type of brain cell, through interactive activities and creative learning designed for curious kids.'
     },
   ];
 
