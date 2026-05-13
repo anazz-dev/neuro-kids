@@ -423,11 +423,29 @@ const Home = () => {
     },
       {
       id: 10,
-      title: 'Unipolar Neurons',
+      title: 'Unipolar Neuron: Neuroscience for Kids',
       image: Unipolar,
       link: 'https://www.amazon.com/dp/B0GKPQYFL7',
       ageRange: 'For 7-14 Years',
       description: 'Learn about the unipolar neuron, a special type of brain cell, through interactive activities and creative learning designed for curious kids.'
+    },
+
+     {
+      id: 11,
+      title: 'Bipolar Neuron: Neuroscience for Kids',
+      image: bipolar,
+      link: 'https://www.amazon.com/dp/B0H1HZTPB3',
+      ageRange: 'For 7-14 Years',
+      description: 'Discover the world of bipolar neurons and learn how these special brain cells help us sense and understand the world through fun activities, puzzles, and creative learning.'
+    },
+
+     {
+      id: 12,
+      title: 'Mulipolar Neuron: Neuroscience for Kids',
+      image: multipolar,
+      link: 'https://www.amazon.com/dp/B0GV9L1Z9N',
+      ageRange: 'For 7-14 Years',
+      description: 'Discover the amazing world of multipolar neurons and learn how these busy brain cells help us think, move, and learn through fun activities, puzzles, and creative exploration.'
     },
   ];
 
