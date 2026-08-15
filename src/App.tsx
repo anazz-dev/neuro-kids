@@ -24,8 +24,8 @@ import {
   Sparkles,
   X,
 } from 'lucide-react';
-import qrBookCover from './assets/1_1786687294781.png';
-import bookCover from './assets/BookCover_1786686509171.png';
+import qrBookCover from './assets/BookCover_1786686509171.png';
+import bookCover from './assets/1_1786687294781.png';
 import brainActivity from './assets/2_2_1786686426090.png';
 import sensesActivity from './assets/2_3_1786686426090.png';
 import hearingActivity from './assets/2_4_1786686426091.png';
